@@ -1,0 +1,72 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace '@@PACKAGE_NAME@@' // Match original package name from AndroidManifest.xml
+    compileSdk 35
+
+    defaultConfig {
+        // Append .revived to avoid signature conflicts with ancient F-Droid Archive/Play Store installs
+        applicationId "@@PACKAGE_NAME@@.revived"
+        minSdk 16
+        targetSdk 24
+        versionCode 1001
+        versionName "1.0.1-revived"
+
+        // If native C/C++ code exists:
+        // ndk {
+        //     abiFilters 'armeabi-v7a', 'arm64-v8a', 'x86_64'
+        // }
+    }
+
+    // Map legacy Eclipse ADT / Ant directory structure without moving files:
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    // Required for legacy Apache HTTP Client usages
+    useLibrary 'org.apache.http.legacy'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    // If native C/C++ build is used (e.g. jni/Android.mk)
+    // externalNativeBuild {
+    //     ndkBuild {
+    //         path 'jni/Android.mk'
+    //         // Enforce 16 KB ELF page alignment for Android 15+:
+    //         arguments "APP_LDFLAGS+=-Wl,-z,max-page-size=16384"
+    //     }
+    // }
+
+    // Optional: Enable ABI splits if native libraries make APK > 80 MB
+    // splits {
+    //     abi {
+    //         enable true
+    //         reset()
+    //         include 'arm64-v8a', 'armeabi-v7a', 'x86_64'
+    //         universalApk true
+    //     }
+    // }
+
+    lint {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+}
+
+dependencies {
+    // Keep dependencies minimal. Most legacy games have zero external dependencies.
+}
