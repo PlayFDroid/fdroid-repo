@@ -7,15 +7,15 @@ SourceCode: https://github.com/PlayFDroid/enigma-android
 IssueTracker: https://github.com/PlayFDroid/enigma-android/issues
 
 AutoName: Enigma
-Summary: Klasyczna gra logiczno-zręcznościowa z kulką wzorowana na Oxyd
+Summary: Classic marble-rolling puzzle game inspired by Oxyd and Marble Madness
 Description: |
-  Enigma to uznany klasyk gier logicznych, będący hołdem dla kultowych gier Oxyd i Marble Madness.
+  Enigma is a classic puzzle and arcade game inspired by Oxyd and Marble Madness.
 
-  Głównym celem gry jest odnalezienie i odsłonięcie par identycznych kamieni Oxyd za pomocą toczącej się marmurowej kulki. Uważaj na pułapki, lasery, ruchome podłoża, jednokierunkowe przejścia i setki zagadek fizycznych!
+  The object of the game is to find and uncover matching pairs of Oxyd stones using a rolling marble. Watch out for traps, lasers, moving floors, one-way paths, and hundreds of physics-based puzzles!
 
-  Cechy wersji Revived:
-  • Ponad 1000 zróżnicowanych poziomów (w tym klasyczne zestawy Oxyd i Enigma).
-  • Zmodernizowany silnik ze wsparciem dla 64-bitowych procesorów (ARM64) oraz nowoczesnego Androida (14, 15, 16+).
-  • Sterowanie dotykowe oraz obsługa żyroskopu/akcelerometru (przechylaj telefon, by toczyć kulkę).
-  • Zgodność z 16 KB page-size alignment.
-  • Pełna oprawa dźwiękowa i muzyczna.
+  Features of the Revived edition:
+  • Over 1,000 diverse levels (including classic Oxyd and Enigma level packs).
+  • Modernized engine supporting 64-bit CPUs (ARM64) and Android 14/15/16+.
+  • Touchscreen controls and Gyro/Accelerometer support (tilt your device to roll the marble).
+  • Compliant with 16 KB page-size alignment for modern hardware.
+  • Full soundtrack and sound effects.
