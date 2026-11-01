@@ -1,0 +1,21 @@
+Categories:
+  - Games
+License: GPL-2.0-or-later
+AuthorName: Daniel Heck & SeeSchloss
+WebSite: https://www.nongnu.org/enigma/
+SourceCode: https://github.com/PlayFDroid/enigma-android
+IssueTracker: https://github.com/PlayFDroid/enigma-android/issues
+
+AutoName: Enigma
+Summary: Klasyczna gra logiczno-zręcznościowa z kulką wzorowana na Oxyd
+Description: |
+  Enigma to uznany klasyk gier logicznych, będący hołdem dla kultowych gier Oxyd i Marble Madness.
+
+  Głównym celem gry jest odnalezienie i odsłonięcie par identycznych kamieni Oxyd za pomocą toczącej się marmurowej kulki. Uważaj na pułapki, lasery, ruchome podłoża, jednokierunkowe przejścia i setki zagadek fizycznych!
+
+  Cechy wersji Revived:
+  • Ponad 1000 zróżnicowanych poziomów (w tym klasyczne zestawy Oxyd i Enigma).
+  • Zmodernizowany silnik ze wsparciem dla 64-bitowych procesorów (ARM64) oraz nowoczesnego Androida (14, 15, 16+).
+  • Sterowanie dotykowe oraz obsługa żyroskopu/akcelerometru (przechylaj telefon, by toczyć kulkę).
+  • Zgodność z 16 KB page-size alignment.
+  • Pełna oprawa dźwiękowa i muzyczna.

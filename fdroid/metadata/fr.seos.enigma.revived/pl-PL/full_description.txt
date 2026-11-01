@@ -1,0 +1,10 @@
+Enigma to uznany klasyk gier logicznych, będący hołdem dla kultowych gier Oxyd i Marble Madness.
+
+Głównym celem gry jest odnalezienie i odsłonięcie par identycznych kamieni Oxyd za pomocą toczącej się marmurowej kulki. Uważaj na pułapki, lasery, ruchome podłoża, jednokierunkowe przejścia i setki zagadek fizycznych!
+
+Cechy wersji Revived:
+• Ponad 1000 zróżnicowanych poziomów (w tym klasyczne zestawy Oxyd i Enigma).
+• Zmodernizowany silnik ze wsparciem dla 64-bitowych procesorów (ARM64) oraz nowoczesnego Androida (14, 15, 16+).
+• Sterowanie dotykowe oraz obsługa żyroskopu/akcelerometru (przechylaj telefon, by toczyć kulkę).
+• Zgodność z 16 KB page-size alignment.
+• Pełna oprawa dźwiękowa i muzyczna.

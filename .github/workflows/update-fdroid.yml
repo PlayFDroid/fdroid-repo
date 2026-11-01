@@ -13,6 +13,7 @@ permissions:
 jobs:
   deploy-fdroid:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - name: Checkout fdroid-repo
         uses: actions/checkout@v4
@@ -60,6 +61,9 @@ jobs:
             fdroid update --create-metadata --pretty
           else
             echo "Notice: No APKs in repository yet. Skipping fdroid update."
+          fi
+          if [ -f obtainium-pack.json ]; then
+            mv obtainium-pack.json repo/
           fi
           rm -f keystore.jks config.yml
 

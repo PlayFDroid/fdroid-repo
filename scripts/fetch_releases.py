@@ -49,7 +49,7 @@ for repo in repos:
     except Exception as e:
         print(f"Skipping {repo}: {e}")
 
-obtainium_path = os.path.join("fdroid/repo", "obtainium-pack.json")
+obtainium_path = os.path.join("fdroid", "obtainium-pack.json")
 with open(obtainium_path, "w") as out:
     json.dump({"apps": obtainium_apps}, out, indent=2)
 

@@ -1,0 +1,10 @@
+Enigma is a classic puzzle and arcade game inspired by Oxyd and Marble Madness.
+
+The object of the game is to find and uncover matching pairs of Oxyd stones using a rolling marble. Watch out for traps, lasers, moving floors, one-way paths, and hundreds of physics-based puzzles!
+
+Features of the Revived edition:
+• Over 1,000 diverse levels (including classic Oxyd and Enigma level packs).
+• Modernized engine supporting 64-bit CPUs (ARM64) and Android 14/15/16+.
+• Touchscreen controls and Gyro/Accelerometer support (tilt your device to roll the marble).
+• Compliant with 16 KB page-size alignment for modern hardware.
+• Full soundtrack and sound effects.
