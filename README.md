@@ -9,11 +9,18 @@ An automated, decentralized, 100% GitHub-hosted F-Droid repository dedicated to 
 
 ## 📱 How to Add to F-Droid Client
 
-### Method 1: One-Click Add (On your Android Device)
+### Method 1: Scan QR Code (Fastest)
+Scan this QR code using the F-Droid app or your phone camera:
+
+<p align="center">
+  <img src="qr.png" width="260" alt="F-Droid Repo QR Code" />
+</p>
+
+### Method 2: One-Click Add (On your Android Device)
 Tap this link from your phone or tablet:
 👉 **[Add PlayFDroid Repository to F-Droid](fdroidrepos://raw.githubusercontent.com/PlayFDroid/fdroid-repo/gh-pages/fdroid/repo?fingerprint=077873B95749B78FA46971CC117F6F6086639D785208F0DDF3DA2143CB1E8DDD)**
 
-### Method 2: Manual Add in F-Droid Settings
+### Method 3: Manual Add in F-Droid Settings
 1. Open **F-Droid** -> **Settings** -> **Repositories**.
 2. Tap the **+** (Add) button.
 3. Paste the repository URL:
