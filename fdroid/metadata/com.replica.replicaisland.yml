@@ -1,0 +1,19 @@
+Categories:
+  - Games
+License: Apache-2.0
+AuthorName: Chris Pruett & Genki Mine
+WebSite: https://replicaisland.net/
+SourceCode: https://github.com/PlayFDroid/replica-island
+IssueTracker: https://github.com/PlayFDroid/replica-island/issues
+
+AutoName: Replica Island
+Summary: Classic side-scrolling platformer starring the Android robot
+Description: |
+  Replica Island is a complete 2D side-scrolling platformer starring the green Android robot on a quest to locate a mysterious power source on a peculiar island.
+
+  Features of this modernized edition:
+  • Complete 40-level classic campaign with dialogues, secret levels, challenging boss fights, and 3 unique endings.
+  • Modernized build system and toolchain targeting Android 15+ (SDK 35) with support for modern 64-bit devices.
+  • Updated tilt controls using modern Android rotation vectors alongside on-screen virtual slider controls.
+  • Fixed landscape display mode for modern widescreen ratios.
+  • Free and open-source under the Apache 2.0 license.

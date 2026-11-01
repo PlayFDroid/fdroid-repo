@@ -1,0 +1,8 @@
+Replica Island to klasyczna, kompletna platformówka 2D, w której wcielasz się w zielonego robota z logo Androida poszukującego tajemniczego źródła mocy na niezwykłej wyspie.
+
+Cechy zmodernizowanego wydania:
+• Pełna 40-poziomowa kampania z dialogami, ukrytymi poziomami, walkami z bossami i 3 różnymi zakończeniami.
+• Zmodernizowany system budowania przystosowany do współczesnych urządzeń z Androidem 15+ (SDK 35) i 64-bitową architekturą.
+• Uaktualnione sterowanie żyroskopem/pochylaniem wykorzystujące nowoczesne wektory rotacji Androida wraz z wirtualnymi suwakami dotykowymi na ekranie.
+• Zablokowany horyzontalny tryb panoramiczny bez niepożądanych obrotów ekranu.
+• Oprogramowanie open-source na licencji Apache 2.0.

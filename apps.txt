@@ -1,5 +1,3 @@
 # PlayFDroid Games Catalog
-# Add one repository slug per line, e.g.:
-# PlayFDroid/replica-island
-# PlayFDroid/frozen-bubble
 PlayFDroid/enigma-android
+PlayFDroid/replica-island
