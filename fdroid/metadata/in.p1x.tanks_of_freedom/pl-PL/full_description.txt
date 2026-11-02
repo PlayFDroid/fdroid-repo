@@ -1,0 +1,11 @@
+Tanks of Freedom to klasyczna turowa gra strategiczna, w której dwie armie ścierają się na polach bitew w rzucie izometrycznym.
+
+Podejmij wyzwanie w kampaniach fabularnych dla jednego gracza przeciwko sztucznej inteligencji lub stań do pojedynku ze znajomym w trybie hot-seat na jednym urządzeniu. Każda jednostka i pole terenu zostały ręcznie narysowane w stylu 32-kolorowego pixel artu, a całości dopełnia klimatyczna ścieżka dźwiękowa chiptune.
+
+Cechy tego wydania na system Android:
+• Kampanie dla jednego gracza osadzone w różnych sceneriach i porach roku (Lato, Jesień, Zima).
+• Tryb wieloosobowy hot-seat dla dwóch graczy na jednym ekranie telefonu lub tabletu.
+• Wbudowany edytor map pozwalający tworzyć, testować i udostępniać własne scenariusze.
+• Zróżnicowane jednostki: Piechota, Czołgi, Mobilna Artyleria i Śmigłowce z taktycznym systemem punktów akcji (AP).
+• Zaktualizowany silnik Godot z pełnym wsparciem dla 64-bitowych procesorów (ARM64 i x86_64) na nowoczesnym Androidzie.
+• W 100% darmowa i otwartoźródłowa (licencja MIT), bez żadnych reklam i telemetrii.
