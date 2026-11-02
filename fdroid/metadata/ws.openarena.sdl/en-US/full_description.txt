@@ -1,0 +1,11 @@
+OpenArena is a standalone, open-source 3D first-person shooter powered by the ioquake3 / Quake III Arena engine.
+
+Battle with classic weapons like the Rocket Launcher, Railgun, Plasma Gun, and Lightning Gun across dozens of arenas in Deathmatch, Team Deathmatch, Tournament, and Capture the Flag modes.
+
+Features of this modernized Android port:
+• Touchscreen controls with Ray-Traced Autoshoot (automatically fires when an enemy crosses your crosshairs).
+• Authentic first-person perspective by default.
+• Tap anywhere to respawn when eliminated, plus an emergency manual fire button.
+• Compatible with modern Android 15/16 and 16 KB page-size Linux kernels (ARM64).
+• Hardware mouse capture, physical gamepad, and configurable gyroscope aiming support.
+• Integrated asset downloader fetching official game data files on first launch.

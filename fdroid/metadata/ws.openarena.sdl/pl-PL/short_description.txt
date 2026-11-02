@@ -1,0 +1,1 @@
+Dynamiczna wieloosobowa strzelanka 3D FPS oparta na silniku ioquake3.

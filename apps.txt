@@ -1,3 +1,4 @@
 # PlayFDroid Games Catalog
 PlayFDroid/enigma-android
 PlayFDroid/replica-island
+PlayFDroid/openarena-android

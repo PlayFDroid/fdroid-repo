@@ -1,0 +1,11 @@
+OpenArena to samodzielna, otwartoźródłowa strzelanka pierwszoosobowa 3D (FPS) napędzana silnikiem ioquake3 / Quake III Arena.
+
+Walcz klasycznym arsenałem (Rocket Launcher, Railgun, Plasma Gun, Lightning Gun) na dziesiątkach aren w trybach Deathmatch, Team Deathmatch, Tournament oraz Capture the Flag.
+
+Cechy tego zmodernizowanego portu na Androida:
+• Sterowanie dotykowe z Ray-Traced Autoshoot (automatyczny ogień w momencie najechania celownikiem na przeciwnika).
+• Autentyczny widok z pierwszej osoby domyślnie aktywny po instalacji.
+• Natychmiastowe odrodzenie (respawn) po dotknięciu ekranu w dowolnym miejscu po zgonie oraz dyskretny awaryjny przycisk strzału.
+• Pełna zgodność z Androidem 15/16 oraz nowoczesnymi jądrami Linux 16 KB page-size (ARM64).
+• Obsługa myszy (przechwytywanie kursora), fizycznych kontrolerów (gamepad) oraz opcjonalnego żyroskopu.
+• Automatyczny instalator pobierający oficjalne pakiety danych gry przy pierwszym uruchomieniu.
