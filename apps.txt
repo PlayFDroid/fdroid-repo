@@ -3,3 +3,4 @@ PlayFDroid/enigma-android
 PlayFDroid/replica-island
 PlayFDroid/openarena-android
 PlayFDroid/tanks-of-freedom
+PlayFDroid/supertux-advance-android
