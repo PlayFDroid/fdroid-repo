@@ -1,0 +1,12 @@
+Simple Brick Games wiernie odtwarza kultową kieszonkową konsolę z ekranem LCD (Brick Game 9999 w 1) z niepowtarzalnym klimatem retro i pełnym wsparciem dla współczesnego Androida.
+
+Cechy gry:
+• 14 klasycznych gier logiczno-zręcznościowych: klocki (Tetris), czołgi, wyścigi, wąż, zbijanie cegiełek, żaba i strzelanki.
+• Wiernie odwzorowany monochromatyczny wyświetlacz LCD z możliwością zmiany faktury klocków i koloru podświetlenia.
+• Personalizacja wyglądu obudowy konsoli i kolorów przycisków.
+• Regulacja poziomu trudności, poziomu początkowego i prędkości dla każdej gry.
+• Niezależne tabele najlepszych wyników (High Score) dla każdej gry.
+• Wsparcie dla fizycznych klawiatur i kontrolerów obok dotykowych przycisków ekranowych.
+• Nowoczesna haptyka i wibracje dostosowane do współczesnych wersji Androida.
+• Nowoczesna kompilacja na Androida 15+ (SDK 35) z pełną kompatybilnością na wszystkich urządzeniach.
+• Całkowicie wolne i otwarte oprogramowanie na licencji GPLv3+.
