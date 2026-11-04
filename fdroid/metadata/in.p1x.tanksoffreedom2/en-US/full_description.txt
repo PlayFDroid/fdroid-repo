@@ -1,0 +1,12 @@
+Tanks of Freedom II is the 3D sequel to the beloved turn-based tactical strategy game. Built from the ground up on Godot Engine 4, it brings charming isometric voxel aesthetics, tactical depth, and modern touch optimization to Android.
+
+Take command of your forces, capture key production buildings, manage action points (AP), and outmaneuver the enemy across challenging single-player campaign missions, skirmishes, or local hot-seat multiplayer.
+
+Features of this modernized Android release:
+• Modern Godot 4 3D engine with Vulkan Mobile rendering.
+• Handcrafted voxel style with dynamic terrain, rivers, bridges, and weather effects.
+• Complete single-player story campaign and customizable skirmish modes.
+• Local hot-seat multiplayer for intense head-to-head battles on one device.
+• Tactile touchscreen controls with intuitive 3D tile selection and mobile HUD.
+• Full 64-bit ARM64 native binary compatible with modern Android releases (14/15/16/17+).
+• 100% free and open-source under the MIT license, with zero ads or tracking.

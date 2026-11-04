@@ -1,0 +1,1 @@
+Klasyczna turowa strategia w trójwymiarowym wokselowym świecie izometrycznym.
