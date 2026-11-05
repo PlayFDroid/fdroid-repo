@@ -1,0 +1,10 @@
+SuperTux Advance is a 2D retro platformer featuring Tux the penguin, Penny, and Gwendolyn on a quest across expansive worlds packed with enemies, secret areas, powerups, boss fights, time attack challenges, and custom levels.
+
+Features of this modernized Android edition:
+• Low-latency virtual touch controls (8-way D-pad, action buttons, pause/swap) rendered natively through SDL2.
+• Dynamic display autofit automatically adapting to modern panoramic screens (19:9, 20:9, 21:9) without letterboxing.
+• Native 64-bit binaries with 16 KB page-size ELF alignment for Android 15+.
+• Rendering and background glitch fixes eliminating parallax tiling artifacts and ghosting.
+• Hardened audio subsystem preventing sound dropouts and audio channel corruption.
+• Full support for physical gamepads and keyboard input alongside on-screen touch controls.
+• Free and open-source under GPLv3 / AGPLv3.

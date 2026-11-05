@@ -1,0 +1,10 @@
+SuperTux Advance to klasyczna dwuwymiarowa gra platformowa w stylu retro, w której Tuks, Penny i Gwendolyn wyruszają w pełną przygód podróż przez rozległe światy pełne wrogów, ukrytych sekretów, ulepszeń, walk z bossami i wyzwań czasowych.
+
+Cechy wydania dla nowoczesnego Androida:
+• Wbudowane, responsywne sterowanie dotykowe (krzyżak D-pad, przyciski akcji, pauza i zmiana postaci) bezpośrednio w SDL2 o zerowych opóźnieniach.
+• Automatyczne dopasowanie do nowoczesnych ekranów panoramicznych (19:9, 20:9, 21:9) bez czarnych pasów.
+• Zgodność z Androidem 15+ i wyrównanie segmentów ELF do stron pamięci 16 KB na 64-bitowych procesorach.
+• Usunięcie błędów graficznych w tłach i przewijaniu paralaksy.
+• Wzmocniony podsystem dźwiękowy zapobiegający zanikaniu efektów audio.
+• Pełna obsługa fizycznych gamepadów oraz klawiatur obok sterowania dotykowego.
+• Wolne i otwarte oprogramowanie na licencjach GPLv3 / AGPLv3.
