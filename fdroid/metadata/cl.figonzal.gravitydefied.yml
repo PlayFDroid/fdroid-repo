@@ -1,0 +1,25 @@
+Categories:
+  - Action Game
+  - Casual Game
+License: GPL-2.0-only
+AuthorName: Codebrew Software & Evgeny Zinoviev & Felipe Gonzalez
+WebSite: http://gdtr.net/
+SourceCode: https://github.com/PlayFDroid/gravity-defied
+IssueTracker: https://github.com/PlayFDroid/gravity-defied/issues
+
+AutoName: Gravity Defied Classic
+Summary: Iconic retro trial racing motorcycle game
+Description: |
+  Gravity Defied: Trial Racing is a legendary physics-based trial motorcycle racing game originally developed by Codebrew Software in 2004 for J2ME mobile devices.
+
+  This modernized Android edition faithfully preserves the authentic 2004 fixed-point physics engine, classic wireframe vector tracks, and responsive bike dynamics while introducing comprehensive updates for contemporary smartphones.
+
+  Features of this modernized edition:
+  • Complete collection of all 30 original classic tracks across 100cc, 175cc, 220cc, and 325cc leagues.
+  • Integrated mod catalog with in-game downloading and instant switching between over 1000 fan-made track packs.
+  • Virtual on-screen 1–9 numeric control pad with multi-touch and haptic feedback.
+  • Edge-to-edge layout with full support for modern display cutouts and aspect ratios.
+  • Complete removal of proprietary telemetry and tracking SDKs (Firebase/Crashlytics) for complete privacy and libre compliance.
+  • Modernized Android toolchain targeting Android 15/16+ (SDK 35/36).
+  • Compatible with all modern 64-bit devices and 16 KB page-size kernels.
+  • Free and open-source under the GPL-2.0 license.

@@ -6,3 +6,4 @@ PlayFDroid/tanks-of-freedom
 PlayFDroid/supertux-advance-android
 PlayFDroid/tanks-of-freedom-2
 PlayFDroid/simple-brick-games
+PlayFDroid/gravity-defied

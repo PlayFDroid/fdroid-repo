@@ -1,0 +1,13 @@
+Gravity Defied: Trial Racing to legendarna gra trialowa oparta na fizyce, pierwotnie stworzona przez Codebrew Software w 2004 roku na telefony komórkowe z systemem J2ME.
+
+To zmodernizowane wydanie dla systemu Android wiernie odwzorowuje oryginalny silnik fizyki, klasyczne wektorowe trasy oraz dynamikę motocykla, zapewniając pełną kompatybilność ze współczesnymi smartfonami.
+
+Cechy wydania PlayFDroid:
+• Wszystkie 30 oryginalnych tras w ligach 100cc, 175cc, 220cc i 325cc.
+• Wbudowana przeglądarka modów z możliwością pobierania i przełączania ponad 1000 zestawów tras stworzonych przez społeczność.
+• Wirtualna klawiatura numeryczna 1–9 z obsługą multitouch i sprzężenia zwrotnego (wibracje).
+• Pełnoekranowy widok dopasowany do współczesnych ekranów panoramicznych i wycięć na aparat.
+• Całkowicie wolne od telemetrii i komercyjnych bibliotek śledzących (usunięty Firebase/Crashlytics).
+• Zmodernizowany kod dla nowoczesnego 64-bitowego Androida 15/16+ (SDK 35/36).
+• Kompatybilność z 16 KB page-size na nowoczesnych procesorach.
+• Wolne i otwarte oprogramowanie na licencji GPL-2.0.
