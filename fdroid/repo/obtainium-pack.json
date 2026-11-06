@@ -1,0 +1,36 @@
+{
+  "apps": [
+    {
+      "id": "PlayFDroid/enigma-android",
+      "url": "https://github.com/PlayFDroid/enigma-android"
+    },
+    {
+      "id": "PlayFDroid/replica-island",
+      "url": "https://github.com/PlayFDroid/replica-island"
+    },
+    {
+      "id": "PlayFDroid/openarena-android",
+      "url": "https://github.com/PlayFDroid/openarena-android"
+    },
+    {
+      "id": "PlayFDroid/tanks-of-freedom",
+      "url": "https://github.com/PlayFDroid/tanks-of-freedom"
+    },
+    {
+      "id": "PlayFDroid/supertux-advance-android",
+      "url": "https://github.com/PlayFDroid/supertux-advance-android"
+    },
+    {
+      "id": "PlayFDroid/tanks-of-freedom-2",
+      "url": "https://github.com/PlayFDroid/tanks-of-freedom-2"
+    },
+    {
+      "id": "PlayFDroid/simple-brick-games",
+      "url": "https://github.com/PlayFDroid/simple-brick-games"
+    },
+    {
+      "id": "PlayFDroid/gravity-defied",
+      "url": "https://github.com/PlayFDroid/gravity-defied"
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "PlayFDroid Open-Source Games"
+    },
+    "description": {
+      "en-US": "Classic open-source Android games and modern ports revived for Android 14/15/16+ (64-bit ARMv9)."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "6c56eafed110f5bf240c7a542cff3ac485004836733a8078821df09810ec3a4e",
+        "size": 985
+      }
+    },
+    "address": "https://raw.githubusercontent.com/PlayFDroid/fdroid-repo/gh-pages/fdroid/repo",
+    "timestamp": 1793973540000,
+    "categories": {
+      "Action Game": {
+        "name": {
+          "en-US": "Action Game"
+        }
+      },
+      "Casual Game": {
+        "name": {
+          "en-US": "Casual Game"
+        }
+      },
+      "Platformer Game": {
+        "name": {
+          "en-US": "Platformer Game"
+        }
+      },
+      "Puzzle Game": {
+        "name": {
+          "en-US": "Puzzle Game"
+        }
+      },
+      "Shooter Game": {
+        "name": {
+          "en-US": "Shooter Game"
+        }
+      },
+      "Strategy Game": {
+        "name": {
+          "en-US": "Strategy Game"
+        }
+      }
+    }
+  },
+  "packages": {
+    "cl.figonzal.gravitydefied": {
+      "metadata": {
+        "added": 1793973509000,
+        "categories": [
+          "Action Game",
+          "Casual Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/gravity-defied/issues",
+        "lastUpdated": 1793973509000,
+        "license": "GPL-2.0-only",
+        "sourceCode": "https://github.com/PlayFDroid/gravity-defied",
+        "webSite": "http://gdtr.net/",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/cl.figonzal.gravitydefied/en-US/phoneScreenshots/1.png",
+                "sha256": "7336d3da2577fe3dc59cc5f6f0bd222e34e36e12de41f081dd7d9c4a3b96a946",
+                "size": 76470
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/en-US/phoneScreenshots/2.png",
+                "sha256": "ebd5428dcdc69b23749a6d0f9f43ad37e6ddc6feacf0ef073ff53d6d80bfd380",
+                "size": 95270
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/en-US/phoneScreenshots/3.png",
+                "sha256": "0dfee17d869093087cb973553dd8e75d014abe5d83f30d95ce77f6c04bd25066",
+                "size": 209308
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/en-US/phoneScreenshots/4.png",
+                "sha256": "2beea610aacbc408b9b28f8be3a671134b7bb8b1fcc7ef7e9420e57288b854a2",
+                "size": 86627
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/cl.figonzal.gravitydefied/pl-PL/phoneScreenshots/1.png",
+                "sha256": "7336d3da2577fe3dc59cc5f6f0bd222e34e36e12de41f081dd7d9c4a3b96a946",
+                "size": 76470
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/pl-PL/phoneScreenshots/2.png",
+                "sha256": "ebd5428dcdc69b23749a6d0f9f43ad37e6ddc6feacf0ef073ff53d6d80bfd380",
+                "size": 95270
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/pl-PL/phoneScreenshots/3.png",
+                "sha256": "0dfee17d869093087cb973553dd8e75d014abe5d83f30d95ce77f6c04bd25066",
+                "size": 209308
+              },
+              {
+                "name": "/cl.figonzal.gravitydefied/pl-PL/phoneScreenshots/4.png",
+                "sha256": "2beea610aacbc408b9b28f8be3a671134b7bb8b1fcc7ef7e9420e57288b854a2",
+                "size": 86627
+              }
+            ]
+          }
+        },
+        "authorName": "Codebrew Software & Evgeny Zinoviev & Felipe Gonzalez",
+        "name": {
+          "en-US": "Gravity Defied Classic"
+        },
+        "summary": {
+          "en-US": "Iconic retro trial racing motorcycle game"
+        },
+        "description": {
+          "en-US": "Gravity Defied: Trial Racing is a legendary physics-based trial motorcycle racing game originally developed by Codebrew Software in 2004 for J2ME mobile devices.\n\nThis modernized Android edition faithfully preserves the authentic 2004 fixed-point physics engine, classic wireframe vector tracks, and responsive bike dynamics while introducing comprehensive updates for contemporary smartphones.\n\nFeatures of this modernized edition:\n• Complete collection of all 30 original classic tracks across 100cc, 175cc, 220cc, and 325cc leagues.\n• Integrated mod catalog with in-game downloading and instant switching between over 1000 fan-made track packs.\n• Virtual on-screen 1–9 numeric control pad with multi-touch and haptic feedback.\n• Edge-to-edge layout with full support for modern display cutouts and aspect ratios.\n• Complete removal of proprietary telemetry and tracking SDKs (Firebase/Crashlytics) for complete privacy and libre compliance.\n• Modernized Android toolchain targeting Android 15/16+ (SDK 35/36).\n• Compatible with all modern 64-bit devices and 16 KB page-size kernels.\n• Free and open-source under the GPL-2.0 license.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/cl.figonzal.gravitydefied/en-US/icon_7_OGarXKdIFRjzPp7ZpYTcL0qNqXxZKSh525ctgyMu0=.png",
+            "sha256": "eff3866ab5ca7481518f33e9ed9a584dc2f4a8da97c59292879db972d83232ed",
+            "size": 99161
+          },
+          "pl-PL": {
+            "name": "/cl.figonzal.gravitydefied/pl-PL/icon_7_OGarXKdIFRjzPp7ZpYTcL0qNqXxZKSh525ctgyMu0=.png",
+            "sha256": "eff3866ab5ca7481518f33e9ed9a584dc2f4a8da97c59292879db972d83232ed",
+            "size": 99161
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "aa70e336480774817d5e63a5da3c441f259a4bebaa1981591573814ef5101d35": {
+          "added": 1793973509000,
+          "file": {
+            "name": "/gravitydefied.apk",
+            "sha256": "aa70e336480774817d5e63a5da3c441f259a4bebaa1981591573814ef5101d35",
+            "size": 578856
+          },
+          "manifest": {
+            "versionName": "1.0.9",
+            "versionCode": 10,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "cl.figonzal.gravitydefied.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.replica.replicaisland": {
+      "metadata": {
+        "added": 1793973509000,
+        "categories": [
+          "Platformer Game",
+          "Action Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/replica-island/issues",
+        "lastUpdated": 1793973509000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/PlayFDroid/replica-island",
+        "webSite": "https://replicaisland.net/",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.replica.replicaisland/en-US/phoneScreenshots/1.png",
+                "sha256": "618dcda7c0dde58de6c3c296f0ee802a7e3c8df36f23b81117285a2090c61374",
+                "size": 66067
+              },
+              {
+                "name": "/com.replica.replicaisland/en-US/phoneScreenshots/2.png",
+                "sha256": "acf3ecb5e0963da16429127971f90fd17b3a57084d82c8339d2723b8a90db1b4",
+                "size": 70444
+              },
+              {
+                "name": "/com.replica.replicaisland/en-US/phoneScreenshots/3.png",
+                "sha256": "6e0ed8bdac8e0600df7f51c31cbb9a5be96d59b178be56748ca591f5d9fd64eb",
+                "size": 64156
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/com.replica.replicaisland/pl-PL/phoneScreenshots/1.png",
+                "sha256": "618dcda7c0dde58de6c3c296f0ee802a7e3c8df36f23b81117285a2090c61374",
+                "size": 66067
+              },
+              {
+                "name": "/com.replica.replicaisland/pl-PL/phoneScreenshots/2.png",
+                "sha256": "acf3ecb5e0963da16429127971f90fd17b3a57084d82c8339d2723b8a90db1b4",
+                "size": 70444
+              },
+              {
+                "name": "/com.replica.replicaisland/pl-PL/phoneScreenshots/3.png",
+                "sha256": "6e0ed8bdac8e0600df7f51c31cbb9a5be96d59b178be56748ca591f5d9fd64eb",
+                "size": 64156
+              }
+            ]
+          }
+        },
+        "authorName": "Chris Pruett & Genki Mine",
+        "name": {
+          "en-US": "Replica Island"
+        },
+        "summary": {
+          "en-US": "Classic side-scrolling platformer starring the Android robot"
+        },
+        "description": {
+          "en-US": "Replica Island is a complete 2D side-scrolling platformer starring the green Android robot on a quest to locate a mysterious power source on a peculiar island.\n\nFeatures of this modernized edition:\n• Complete 40-level classic campaign with dialogues, secret levels, challenging boss fights, and 3 unique endings.\n• Modernized build system and toolchain targeting Android 15+ (SDK 35) with support for modern 64-bit devices.\n• Updated tilt controls using modern Android rotation vectors alongside on-screen virtual slider controls.\n• Fixed landscape display mode for modern widescreen ratios.\n• Free and open-source under the Apache 2.0 license.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/com.replica.replicaisland/en-US/icon_nFXzgbtoZK7vJjxhlrJCyoehbgH7NmBcbUI-zsHHjFs=.png",
+            "sha256": "9c55f381bb6864aeef263c6196b242ca87a16e01fb36605c6d423ecec1c78c5b",
+            "size": 8142
+          },
+          "pl-PL": {
+            "name": "/com.replica.replicaisland/pl-PL/icon_nFXzgbtoZK7vJjxhlrJCyoehbgH7NmBcbUI-zsHHjFs=.png",
+            "sha256": "9c55f381bb6864aeef263c6196b242ca87a16e01fb36605c6d423ecec1c78c5b",
+            "size": 8142
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "beafa1a009907eb05afe992a1337b153a90a08779fca30da0248bda017d0796c": {
+          "added": 1793973509000,
+          "file": {
+            "name": "/replica-island-release.apk",
+            "sha256": "beafa1a009907eb05afe992a1337b153a90a08779fca30da0248bda017d0796c",
+            "size": 5006262
+          },
+          "manifest": {
+            "versionName": "1.4",
+            "versionCode": 20,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.VIBRATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "de.tobiasbielefeld.brickgames": {
+      "metadata": {
+        "added": 1793973509000,
+        "categories": [
+          "Puzzle Game",
+          "Casual Game",
+          "Action Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/simple-brick-games/issues",
+        "lastUpdated": 1793973509000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/PlayFDroid/simple-brick-games",
+        "webSite": "https://github.com/TobiasBielefeld/Simple-Brick-Games",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/de.tobiasbielefeld.brickgames/en-US/phoneScreenshots/1_tetris.png",
+                "sha256": "5fee45c4aeed3e464c98fe7a514e6e0c4676f5e4ffa45f8f846799b9ba373da5",
+                "size": 165198
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/en-US/phoneScreenshots/2_tanks.png",
+                "sha256": "d428eb71bf89e411a30f5d2d303b3a7bb169f84dc7fc7dc20a5d41f7c9f36883",
+                "size": 163476
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/en-US/phoneScreenshots/3_racing.png",
+                "sha256": "88938d80e67b07866807359203f2cc2365e2ba4afdf387e11365d2075e24c79d",
+                "size": 174569
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/en-US/phoneScreenshots/4_snake.png",
+                "sha256": "8431de0182fd8bccd7d26cdcc3f82796cf433d1f5e00dad2eae725ad47880f9c",
+                "size": 163905
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/de.tobiasbielefeld.brickgames/pl-PL/phoneScreenshots/1_tetris.png",
+                "sha256": "5fee45c4aeed3e464c98fe7a514e6e0c4676f5e4ffa45f8f846799b9ba373da5",
+                "size": 165198
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/pl-PL/phoneScreenshots/2_tanks.png",
+                "sha256": "d428eb71bf89e411a30f5d2d303b3a7bb169f84dc7fc7dc20a5d41f7c9f36883",
+                "size": 163476
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/pl-PL/phoneScreenshots/3_racing.png",
+                "sha256": "88938d80e67b07866807359203f2cc2365e2ba4afdf387e11365d2075e24c79d",
+                "size": 174569
+              },
+              {
+                "name": "/de.tobiasbielefeld.brickgames/pl-PL/phoneScreenshots/4_snake.png",
+                "sha256": "8431de0182fd8bccd7d26cdcc3f82796cf433d1f5e00dad2eae725ad47880f9c",
+                "size": 163905
+              }
+            ]
+          }
+        },
+        "authorName": "Tobias Bielefeld",
+        "name": {
+          "en-US": "Simple Brick Games"
+        },
+        "summary": {
+          "en-US": "Classic LCD handheld 9999-in-1 brick games"
+        },
+        "description": {
+          "en-US": "Simple Brick Games recreates the nostalgic low-cost LCD brick handheld consoles (Brick Game 9999 in 1) with authentic retro charm and modern Android support.\n\nFeatures:\n• 14 classic mini-games including Falling Blocks, Tanks, Racing, Snake, Brick Breaker, Frogger, and Shooting.\n• Authentic monochrome LCD display with customizable brick textures and backlight colors.\n• Customizable handheld body shells and button color themes.\n• Adjustable difficulty, starting level, and speed for each individual game.\n• Separate highscore tracking for each mini-game.\n• Support for physical keyboard and gamepad button mapping alongside on-screen tactile controls.\n• Tactile haptic feedback modernized for contemporary Android devices.\n• Modernized build targeting Android 15+ (SDK 35) with universal compatibility across all modern architectures.\n• Free and open-source under the GPLv3+ license.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/de.tobiasbielefeld.brickgames/en-US/icon_lJaU2-Vc8sCxTu5yDFPY-QnR2jL5xWeG33IYJgGICuU=.png",
+            "sha256": "949694dbe55cf2c0b14eee720c53d8f909d1da32f9c56786df72182601880ae5",
+            "size": 7992
+          },
+          "pl-PL": {
+            "name": "/de.tobiasbielefeld.brickgames/pl-PL/icon_lJaU2-Vc8sCxTu5yDFPY-QnR2jL5xWeG33IYJgGICuU=.png",
+            "sha256": "949694dbe55cf2c0b14eee720c53d8f909d1da32f9c56786df72182601880ae5",
+            "size": 7992
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "a28e4e49ea1f60f592811a163ee874247bdab7f73b4d77a8a74a9aa8029e71af": {
+          "added": 1793973509000,
+          "file": {
+            "name": "/simple-brick-games-release.apk",
+            "sha256": "a28e4e49ea1f60f592811a163ee874247bdab7f73b4d77a8a74a9aa8029e71af",
+            "size": 5082606
+          },
+          "manifest": {
+            "versionName": "2.2.5",
+            "versionCode": 19,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "de.tobiasbielefeld.brickgames.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "fr.seos.enigma.revived": {
+      "metadata": {
+        "added": 1793973504000,
+        "categories": [
+          "Puzzle Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/enigma-android/issues",
+        "lastUpdated": 1793973504000,
+        "license": "GPL-2.0-or-later",
+        "sourceCode": "https://github.com/PlayFDroid/enigma-android",
+        "webSite": "https://www.nongnu.org/enigma/",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/fr.seos.enigma.revived/en-US/phoneScreenshots/1.png",
+                "sha256": "516541b7190710fbc7ac168c2e57f1d3fb4e1f3e850e8e6cd9d89bee304194dc",
+                "size": 330535
+              },
+              {
+                "name": "/fr.seos.enigma.revived/en-US/phoneScreenshots/2.png",
+                "sha256": "4fe2d88efd41fc2e6d8ce1b39a309a2938639110c3b3ceea889173e1fe5de7be",
+                "size": 407640
+              },
+              {
+                "name": "/fr.seos.enigma.revived/en-US/phoneScreenshots/3.png",
+                "sha256": "fc429fbf40277d17a84a2e681328b63d8cb319debd16c415d4fa5a41b3accc49",
+                "size": 390669
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/fr.seos.enigma.revived/pl-PL/phoneScreenshots/1.png",
+                "sha256": "516541b7190710fbc7ac168c2e57f1d3fb4e1f3e850e8e6cd9d89bee304194dc",
+                "size": 330535
+              },
+              {
+                "name": "/fr.seos.enigma.revived/pl-PL/phoneScreenshots/2.png",
+                "sha256": "4fe2d88efd41fc2e6d8ce1b39a309a2938639110c3b3ceea889173e1fe5de7be",
+                "size": 407640
+              },
+              {
+                "name": "/fr.seos.enigma.revived/pl-PL/phoneScreenshots/3.png",
+                "sha256": "fc429fbf40277d17a84a2e681328b63d8cb319debd16c415d4fa5a41b3accc49",
+                "size": 390669
+              }
+            ]
+          }
+        },
+        "authorName": "Daniel Heck & SeeSchloss",
+        "name": {
+          "en-US": "Enigma"
+        },
+        "summary": {
+          "en-US": "Classic marble-rolling puzzle game inspired by Oxyd and Marble Madness"
+        },
+        "description": {
+          "en-US": "Enigma is a classic puzzle and arcade game inspired by Oxyd and Marble Madness.\n\nThe object of the game is to find and uncover matching pairs of Oxyd stones using a rolling marble. Watch out for traps, lasers, moving floors, one-way paths, and hundreds of physics-based puzzles!\n\nFeatures of the Revived edition:\n• Over 1,000 diverse levels (including classic Oxyd and Enigma level packs).\n• Modernized engine supporting 64-bit CPUs (ARM64) and Android 14/15/16+.\n• Touchscreen controls and Gyro/Accelerometer support (tilt your device to roll the marble).\n• Compliant with 16 KB page-size alignment for modern hardware.\n• Full soundtrack and sound effects.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/fr.seos.enigma.revived/en-US/icon_gyITaFcETmiZz3d3_6B_4QivkRShSw0flBJAi8rQoeg=.png",
+            "sha256": "8322136857044e6899cf7777ffa07fe108af9114a14b0d1f9412408bcad0a1e8",
+            "size": 41183
+          },
+          "pl-PL": {
+            "name": "/fr.seos.enigma.revived/pl-PL/icon_gyITaFcETmiZz3d3_6B_4QivkRShSw0flBJAi8rQoeg=.png",
+            "sha256": "8322136857044e6899cf7777ffa07fe108af9114a14b0d1f9412408bcad0a1e8",
+            "size": 41183
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "832e9c121fbb602b0dc03dde4e8bb4eb1e77882322dcdbf1a23558e62ffadfc2": {
+          "added": 1793973504000,
+          "file": {
+            "name": "/Enigma-1.21.3-revived.apk",
+            "sha256": "832e9c121fbb602b0dc03dde4e8bb4eb1e77882322dcdbf1a23558e62ffadfc2",
+            "size": 94331463
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86_64"
+            ],
+            "versionName": "1.21.3-revived",
+            "versionCode": 1004,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCAL_NETWORK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 18
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 18
+              },
+              {
+                "name": "fr.seos.enigma.revived.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "in.p1x.tanks_of_freedom": {
+      "metadata": {
+        "added": 1793973507000,
+        "categories": [
+          "Strategy Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/tanks-of-freedom/issues",
+        "lastUpdated": 1793973507000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/PlayFDroid/tanks-of-freedom",
+        "webSite": "https://w84death.itch.io/tanks-of-freedom",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/in.p1x.tanks_of_freedom/en-US/phoneScreenshots/1_battlefield.png",
+                "sha256": "091f8789d82a4959678b033a5daa29b8b4c1c9b4c483a72093aaa235b4a35d2e",
+                "size": 77770
+              },
+              {
+                "name": "/in.p1x.tanks_of_freedom/en-US/phoneScreenshots/2_combat.png",
+                "sha256": "6d8354e16032c2db6f3b85ca667fd5f3b886f7d8966783aa31851a743c11fd92",
+                "size": 65263
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/in.p1x.tanks_of_freedom/pl-PL/phoneScreenshots/1_pole_bitwy.png",
+                "sha256": "091f8789d82a4959678b033a5daa29b8b4c1c9b4c483a72093aaa235b4a35d2e",
+                "size": 77770
+              },
+              {
+                "name": "/in.p1x.tanks_of_freedom/pl-PL/phoneScreenshots/2_starcia.png",
+                "sha256": "6d8354e16032c2db6f3b85ca667fd5f3b886f7d8966783aa31851a743c11fd92",
+                "size": 65263
+              }
+            ]
+          }
+        },
+        "authorName": "P1X (Krzysztof Jankowski & Team)",
+        "name": {
+          "en-US": "Tanks of Freedom"
+        },
+        "summary": {
+          "en-US": "Indie turn-based tactical strategy in isometric 32-colour pixel art"
+        },
+        "description": {
+          "en-US": "Tanks of Freedom is a classic turn-based tactical strategy game with two armies fighting against each other.\n\nChallenge yourself in single-player story campaigns against the AI or enjoy intense hot-seat battles with a friend on a single device. Built using Godot Engine, every unit and tile is handcrafted in gorgeous 32-colour isometric pixel art, accompanied by an authentic chiptune soundtrack.\n\nFeatures of this modernized Android release:\n• Single-player story campaigns across varied seasons and terrains (Summer, Fall, Winter).\n• Local hot-seat multiplayer for two players on the same phone or tablet.\n• Built-in tactical map editor to create, play, and share custom battlefields.\n• Diverse unit roster: Infantry, Tanks, Mobile Artillery, and Helicopters with tactical AP mechanics.\n• Updated 64-bit engine support (ARM64 & x86_64) for modern Android devices.\n• 100% free and open-source under the MIT license, with zero ads or tracking.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/in.p1x.tanks_of_freedom/en-US/icon_yvrcG-Uzhu9s9jub9Hg3mb3m10T9QmK4zASO8pN5ft0=.png",
+            "sha256": "cafadc1be53386ef6cf63b9bf4783799bde6d744fd4262b8cc048ef293797edd",
+            "size": 2578
+          },
+          "pl-PL": {
+            "name": "/in.p1x.tanks_of_freedom/pl-PL/icon_yvrcG-Uzhu9s9jub9Hg3mb3m10T9QmK4zASO8pN5ft0=.png",
+            "sha256": "cafadc1be53386ef6cf63b9bf4783799bde6d744fd4262b8cc048ef293797edd",
+            "size": 2578
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "b9df3c28c53949f54161837aaf245c69d04b06a5d514fdea5036eaf8266758d7": {
+          "added": 1793973507000,
+          "file": {
+            "name": "/TanksOfFreedom-0.7.1-beta.apk",
+            "sha256": "b9df3c28c53949f54161837aaf245c69d04b06a5d514fdea5036eaf8266758d7",
+            "size": 30912131
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "0.7.1-beta",
+            "versionCode": 21,
+            "usesSdk": {
+              "minSdkVersion": 18,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "in.p1x.tanksoffreedom2": {
+      "metadata": {
+        "added": 1793973508000,
+        "categories": [
+          "Strategy Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/tanks-of-freedom-2/issues",
+        "lastUpdated": 1793973508000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/PlayFDroid/tanks-of-freedom-2",
+        "webSite": "https://p1x.in/tanks-of-freedom-ii",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/in.p1x.tanksoffreedom2/en-US/phoneScreenshots/1_skirmish.png",
+                "sha256": "cba7b9003f172bbd81ef34316c90c026a9efb71a2055c44e449e2750715a5652",
+                "size": 3296571
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/en-US/phoneScreenshots/2_tactical_combat.png",
+                "sha256": "5ced2522f694799b045aea0bf2f16a34b9d5c019f161df1b45cd6a0222e26b68",
+                "size": 4018682
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/en-US/phoneScreenshots/3_campaign.png",
+                "sha256": "87960344fc522f9a2d914b2fc6927f9ecc1b50a3d103bdbc617237d5f5d96852",
+                "size": 2886003
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/en-US/phoneScreenshots/4_winter_battle.png",
+                "sha256": "013f05f2db5477974ab1fcc24915af7d33654b5a1820cbf44cc3e579ac0e1a49",
+                "size": 2043451
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/in.p1x.tanksoffreedom2/pl-PL/phoneScreenshots/1_potyczka.png",
+                "sha256": "cba7b9003f172bbd81ef34316c90c026a9efb71a2055c44e449e2750715a5652",
+                "size": 3296571
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/pl-PL/phoneScreenshots/2_walka_taktyczna.png",
+                "sha256": "5ced2522f694799b045aea0bf2f16a34b9d5c019f161df1b45cd6a0222e26b68",
+                "size": 4018682
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/pl-PL/phoneScreenshots/3_kampania.png",
+                "sha256": "87960344fc522f9a2d914b2fc6927f9ecc1b50a3d103bdbc617237d5f5d96852",
+                "size": 2886003
+              },
+              {
+                "name": "/in.p1x.tanksoffreedom2/pl-PL/phoneScreenshots/4_bitwa_zimowa.png",
+                "sha256": "013f05f2db5477974ab1fcc24915af7d33654b5a1820cbf44cc3e579ac0e1a49",
+                "size": 2043451
+              }
+            ]
+          }
+        },
+        "authorName": "P1X (Krzysztof Jankowski & Team)",
+        "name": {
+          "en-US": "Tanks of Freedom II"
+        },
+        "summary": {
+          "en-US": "Classic turn-based strategy in an isometric voxel 3D world"
+        },
+        "description": {
+          "en-US": "Tanks of Freedom II is the 3D sequel to the beloved turn-based tactical strategy game. Built from the ground up on Godot Engine 4, it brings charming isometric voxel aesthetics, tactical depth, and modern touch optimization to Android.\n\nTake command of your forces, capture key production buildings, manage action points (AP), and outmaneuver the enemy across challenging single-player campaign missions, skirmishes, or local hot-seat multiplayer.\n\nFeatures of this modernized Android release:\n• Modern Godot 4 3D engine with Vulkan Mobile rendering.\n• Handcrafted voxel style with dynamic terrain, rivers, bridges, and weather effects.\n• Complete single-player story campaign and customizable skirmish modes.\n• Local hot-seat multiplayer for intense head-to-head battles on one device.\n• Tactile touchscreen controls with intuitive 3D tile selection and mobile HUD.\n• Full 64-bit ARM64 native binary compatible with modern Android releases (14/15/16/17+).\n• 100% free and open-source under the MIT license, with zero ads or tracking.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/in.p1x.tanksoffreedom2/en-US/icon_FnItjLx3QAeD_SR_L-fJ-LqzfXQHy-wWrwSfVL3edhc=.png",
+            "sha256": "16722d8cbc77400783fd247f2fe7c9f8bab37d7407cbec16af049f54bdde7617",
+            "size": 19036
+          },
+          "pl-PL": {
+            "name": "/in.p1x.tanksoffreedom2/pl-PL/icon_FnItjLx3QAeD_SR_L-fJ-LqzfXQHy-wWrwSfVL3edhc=.png",
+            "sha256": "16722d8cbc77400783fd247f2fe7c9f8bab37d7407cbec16af049f54bdde7617",
+            "size": 19036
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "7f1c853a2b572378016fd7da12abeeffa7e58c4cf6ce61a5a4238c752b63b96a": {
+          "added": 1793973508000,
+          "file": {
+            "name": "/TanksOfFreedomII.apk",
+            "sha256": "7f1c853a2b572378016fd7da12abeeffa7e58c4cf6ce61a5a4238c752b63b96a",
+            "size": 90606727
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.0.9",
+            "versionCode": 1,
+            "features": [
+              {
+                "name": "android.hardware.vulkan.version"
+              }
+            ],
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "org.supertuxadvance": {
+      "metadata": {
+        "added": 1793973510000,
+        "categories": [
+          "Platformer Game",
+          "Action Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/supertux-advance-android/issues",
+        "lastUpdated": 1793973510000,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/PlayFDroid/supertux-advance-android",
+        "webSite": "https://github.com/KelvinShadewing/supertux-advance",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/org.supertuxadvance/en-US/phoneScreenshots/1_menu.png",
+                "sha256": "c2a5bac72122fd2ff714da6b955b7b5d33f1043e1b8ce06122c09bd3435283c1",
+                "size": 482547
+              },
+              {
+                "name": "/org.supertuxadvance/en-US/phoneScreenshots/2_game.png",
+                "sha256": "6a169117a8bf115a3ed4e0512fb33d8466cc86142eac6b97f2765c1e21397b6b",
+                "size": 649530
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/org.supertuxadvance/pl-PL/phoneScreenshots/1_menu.png",
+                "sha256": "c2a5bac72122fd2ff714da6b955b7b5d33f1043e1b8ce06122c09bd3435283c1",
+                "size": 482547
+              },
+              {
+                "name": "/org.supertuxadvance/pl-PL/phoneScreenshots/2_game.png",
+                "sha256": "6a169117a8bf115a3ed4e0512fb33d8466cc86142eac6b97f2765c1e21397b6b",
+                "size": 649530
+              }
+            ]
+          }
+        },
+        "authorName": "Kelvin Shadewing",
+        "name": {
+          "en-US": "SuperTux Advance"
+        },
+        "summary": {
+          "en-US": "Charming retro 2D platformer powered by Brux GDK"
+        },
+        "description": {
+          "en-US": "SuperTux Advance is a 2D retro platformer featuring Tux the penguin, Penny, and Gwendolyn on a quest across expansive worlds packed with enemies, secret areas, powerups, boss fights, time attack challenges, and custom levels.\n\nFeatures of this modernized Android edition:\n• Low-latency virtual touch controls (8-way D-pad, action buttons, pause/swap) rendered natively through SDL2.\n• Dynamic display autofit automatically adapting to modern panoramic screens (19:9, 20:9, 21:9) without letterboxing.\n• Native 64-bit binaries with 16 KB page-size ELF alignment for Android 15+.\n• Rendering and background glitch fixes eliminating parallax tiling artifacts and ghosting.\n• Hardened audio subsystem preventing sound dropouts and audio channel corruption.\n• Full support for physical gamepads and keyboard input alongside on-screen touch controls.\n• Free and open-source under GPLv3 / AGPLv3.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/org.supertuxadvance/en-US/icon_-nzgdAiI_4COWGrU2Rj6s3bs2PNoDQB_v1T9bi90yQk=.png",
+            "sha256": "fa7ce0740888ff808e586ad4d918fab376ecd8f3680d007fbf54fd6e2f74c909",
+            "size": 45411
+          },
+          "pl-PL": {
+            "name": "/org.supertuxadvance/pl-PL/icon_-nzgdAiI_4COWGrU2Rj6s3bs2PNoDQB_v1T9bi90yQk=.png",
+            "sha256": "fa7ce0740888ff808e586ad4d918fab376ecd8f3680d007fbf54fd6e2f74c909",
+            "size": 45411
+          }
+        },
+        "preferredSigner": "b2b9ccdb10beb01b448d83756d5aa59b8278bca15a98b5319ef9250cf11540ea"
+      },
+      "versions": {
+        "709e34dff48470c27841a81d9d49de2f0bdd89421930c73704762ad46c7a0cfc": {
+          "added": 1793973510000,
+          "file": {
+            "name": "/supertuxadvance.apk",
+            "sha256": "709e34dff48470c27841a81d9d49de2f0bdd89421930c73704762ad46c7a0cfc",
+            "size": 88335816
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86_64"
+            ],
+            "versionName": "0.2.57-android4",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "b2b9ccdb10beb01b448d83756d5aa59b8278bca15a98b5319ef9250cf11540ea"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ws.openarena.sdl": {
+      "metadata": {
+        "added": 1793973506000,
+        "categories": [
+          "Action Game",
+          "Shooter Game"
+        ],
+        "issueTracker": "https://github.com/PlayFDroid/openarena-android/issues",
+        "lastUpdated": 1793973506000,
+        "license": "GPL-2.0",
+        "sourceCode": "https://github.com/PlayFDroid/openarena-android",
+        "webSite": "http://www.openarena.ws/",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/ws.openarena.sdl/en-US/phoneScreenshots/1.png",
+                "sha256": "acf7944afb3a22907655233b3c171ad4f8765b58df5974ee565925326aaf5d5d",
+                "size": 927734
+              },
+              {
+                "name": "/ws.openarena.sdl/en-US/phoneScreenshots/2.png",
+                "sha256": "e06777b0571c2a21aa49ea949ffb176835d8b7531695c3aea236cfbc98b7b24b",
+                "size": 1325894
+              }
+            ],
+            "pl-PL": [
+              {
+                "name": "/ws.openarena.sdl/pl-PL/phoneScreenshots/1.png",
+                "sha256": "acf7944afb3a22907655233b3c171ad4f8765b58df5974ee565925326aaf5d5d",
+                "size": 927734
+              },
+              {
+                "name": "/ws.openarena.sdl/pl-PL/phoneScreenshots/2.png",
+                "sha256": "e06777b0571c2a21aa49ea949ffb176835d8b7531695c3aea236cfbc98b7b24b",
+                "size": 1325894
+              }
+            ]
+          }
+        },
+        "authorName": "OpenArena Team & ioquake3",
+        "name": {
+          "en-US": "OpenArena"
+        },
+        "summary": {
+          "en-US": "Fast-paced multiplayer 3D first-person shooter based on ioquake3"
+        },
+        "description": {
+          "en-US": "OpenArena is a standalone, open-source 3D first-person shooter powered by the ioquake3 / Quake III Arena engine.\n\nBattle with classic weapons like the Rocket Launcher, Railgun, Plasma Gun, and Lightning Gun across dozens of arenas in Deathmatch, Team Deathmatch, Tournament, and Capture the Flag modes.\n\nFeatures of this modernized Android port:\n• Touchscreen controls with Ray-Traced Autoshoot (automatically fires when an enemy crosses your crosshairs).\n• Authentic first-person perspective by default.\n• Tap anywhere to respawn when eliminated, plus an emergency manual fire button.\n• Compatible with modern Android 15/16 and 16 KB page-size Linux kernels (ARM64).\n• Hardware mouse capture, physical gamepad, and configurable gyroscope aiming support.\n• Integrated asset downloader fetching official game data files on first launch.\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/ws.openarena.sdl/en-US/icon_LJZ_Nsqa5Pc5gfNS_ZlBqjK-4dxpr1NJ7IdlCkbI0uI=.png",
+            "sha256": "2c967f36ca9ae4f73981f352fd9941aa32bee1dc69af5349ec87650a46c8d2e2",
+            "size": 123694
+          },
+          "pl-PL": {
+            "name": "/ws.openarena.sdl/pl-PL/icon_LJZ_Nsqa5Pc5gfNS_ZlBqjK-4dxpr1NJ7IdlCkbI0uI=.png",
+            "sha256": "2c967f36ca9ae4f73981f352fd9941aa32bee1dc69af5349ec87650a46c8d2e2",
+            "size": 123694
+          }
+        },
+        "preferredSigner": "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+      },
+      "versions": {
+        "45f69aef01b8bc04947515855b4c92516a946dde086b0174b386bb15582c5647": {
+          "added": 1793973506000,
+          "file": {
+            "name": "/OpenArena-0.8.8.45.apk",
+            "sha256": "45f69aef01b8bc04947515855b4c92516a946dde086b0174b386bb15582c5647",
+            "size": 36152873
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.8.8.45",
+            "versionCode": 8845,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 28
+            },
+            "signer": {
+              "sha256": [
+                "077873b95749b78fa46971cc117f6f6086639d785208f0ddf3da2143cb1e8ddd"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCAL_NETWORK"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 18
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "ws.openarena.sdl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

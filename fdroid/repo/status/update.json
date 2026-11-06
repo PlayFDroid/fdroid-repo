@@ -1,0 +1,57 @@
+{
+  "/etc/issue.net": "Ubuntu 24.04.5 LTS",
+  "antiFeatures": {},
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/runner/.local/bin/fdroid update",
+    "--create-metadata",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1793973543328,
+  "failedBuilds": {},
+  "jarsigner": "/usr/lib/jvm/java-21-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-21-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "noPackages": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "noUpdateCheck": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1793973501800,
+    "index.make repo": 1793973540483,
+    "prepare_apps repo": 1793973510235,
+    "process_apks": 1793973501800,
+    "read_added_date_from_all_apks": 1793973510235,
+    "remove_apks": 1793973510235,
+    "scan_repo_files": 1793973510234
+  },
+  "startTimestamp": 1793973501000,
+  "subcommand": "update"
+}
