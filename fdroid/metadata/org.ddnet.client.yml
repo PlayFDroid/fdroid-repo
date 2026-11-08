@@ -1,0 +1,22 @@
+Categories:
+  - Platformer Game
+  - Action Game
+License: Zlib
+AuthorName: DDNet Team & Magnus Auvinen
+WebSite: https://ddnet.org/
+SourceCode: https://github.com/ddnet/ddnet
+IssueTracker: https://github.com/ddnet/ddnet/issues
+
+AutoName: DDNet
+Summary: Cooperative 2D action precision platformer with grappling hook mechanics
+Description: |
+  DDraceNetwork (DDNet) is an actively maintained open-source modification and continuation of Teeworlds featuring unique cooperative multiplayer gameplay.
+
+  Help each other navigate through custom, intricate maps with up to 64 players using your tee's grappling hook, hammer, and weapons. Rescue teammates from freeze zones, race for worldwide records, or run your own local or LAN server right from your mobile device!
+
+  Key Features:
+  • Cooperative Gameplay: Team up with players worldwide to conquer thousands of diverse community-created obstacle courses.
+  • Integrated Local/LAN Server: Host private offline or local network games directly from the in-game menu.
+  • Worldwide Ranking: Fully connected to global official servers with centralized leaderboards and rank tracking.
+  • Modern Architecture: Native 64-bit ARM (arm64-v8a) and x86/x86_64 binaries with 16 KB page-size kernel alignment for modern Android 15/16+ devices.
+  • Comprehensive Controls: Responsive on-screen touch controls with customizable layout and Bluetooth/USB gamepad support.
