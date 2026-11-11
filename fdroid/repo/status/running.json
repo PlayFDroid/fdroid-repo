@@ -1,0 +1,63 @@
+{
+  "/etc/issue.net": "Ubuntu 24.04.5 LTS",
+  "antiFeatures": {},
+  "apksigner": "/usr/local/lib/android/sdk/build-tools/37.0.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/runner/.local/bin/fdroid update",
+    "--create-metadata",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1794418031964,
+  "failedBuilds": {},
+  "jarsigner": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/21.0.13-9/x64/bin/jarsigner",
+  "keytool": "/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/21.0.13-9/x64/bin/keytool",
+  "needsUpdate": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.ddnet.client",
+    "org.pingus.game",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "noPackages": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.ddnet.client",
+    "org.pingus.game",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "noUpdateCheck": [
+    "cl.figonzal.gravitydefied",
+    "com.replica.replicaisland",
+    "de.tobiasbielefeld.brickgames",
+    "fr.seos.enigma.revived",
+    "in.p1x.tanks_of_freedom",
+    "in.p1x.tanksoffreedom2",
+    "org.ddnet.client",
+    "org.pingus.game",
+    "org.supertuxadvance",
+    "ws.openarena.sdl"
+  ],
+  "stages": {
+    "delete_disabled_builds": 1794417923071,
+    "index.make repo": 1794418028193,
+    "prepare_apps repo": 1794417939589,
+    "process_apks": 1794417923072,
+    "read_added_date_from_all_apks": 1794417939589,
+    "remove_apks": 1794417939588,
+    "scan_repo_files": 1794417939588
+  },
+  "startTimestamp": 1794417922000,
+  "subcommand": "update"
+}

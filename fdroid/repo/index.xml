@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="PlayFDroid Open-Source Games" pubkey="3082057a30820362a003020102020900f743349f260328bb300d06092a864886f70d01010c0500306a310b300906035504061302504c310b3009060355040813024d5a310f300d0603550407130657617273617731133011060355040a130a506c61794644726f696431133011060355040b130a4f70656e536f75726365311330110603550403130a506c61794644726f69643020170d3236313033313232313835315a180f32303534303331383232313835315a306a310b300906035504061302504c310b3009060355040813024d5a310f300d0603550407130657617273617731133011060355040a130a506c61794644726f696431133011060355040b130a4f70656e536f75726365311330110603550403130a506c61794644726f696430820222300d06092a864886f70d01010105000382020f003082020a0282020100c9dcee810b771e1d86e6a2caa754b3777428d70ccedf478c8a0cfedf17d9d9a064b8bd5d7021dc38285d1c254731d11232635e12d560724a1438c1c23eb4d434f2f41c74367dd2a519b639e6e0c22477b3c0bf8c68857fc153b76d19e938bb49e77f5dc6ce872affad736f0443a7435ecd0906d5c470de3dc548fce1347900700b783d157a443c12de708fcfe843420aeff2a6180d214cf18e78a7266e56c9e3f31c658da991b703a2a124a2401a797118ad6bc2da667d0b04182be44ea69ec3e961a1140e25f046d9f0726a7bf23478ae3f51c44ec24221fa093e8d86e8ae1627385118bc767eb83245d59a868457fb60d21076bd659189faaca97ede65c7589a86f6dcbadf2c42af424b46b15f1997c986137a6155bac4679105685d0970823a29b251a890790076c619c90585a86766011bc0f071baad38b31d46c809c52e3c908e2d2f18a4e58113742050203bf46724fcffff718a42a53348c9e9d70b25945bb964b42b5b31ae7ce132b5ec707492e50b3705c12f1161971d7ea8196ca26333ea8f8eab46460c08812fbcd6a666514c51b696aa75f5ab791e0783e9ed7cdeab965aff6c610ebf560bbb6c918e9a21fcf01a9d1ac46cbd9a1b5565d68e49669d4176d74d83fe1d7f7d96e105c33902da895f8d3688175d652403a7ad2347d2c2707ff8411e3ebce98029662e5496fae68dd48e538ca61cd3a9c22502a04f0203010001a321301f301d0603551d0e041604145c7673fa64a7b5093c29954210b1ebd213d1b37a300d06092a864886f70d01010c0500038202010011bbf023badd565f1605434b2f85b3f0e377669f5767977eac096f3e6b433a903c1b4246a733b159bd1aa5a0c66f27c944a4b515ac428602d6cb8eda2f9f6b79bf6853d07816bfa9e077ef7ca039092cc88c505f5d3337076f27b753ee61b576e3e1d30d8a74ae2a9c9e994faa31ed7549de72a754c91f5b0efb5130c1320d0e9b0f3f5c05b0bf0680ba8da02fa3eda712192deb8b068e591744cbd22fb022395de3be70afc254c3e7f1ab148cfe3f996bbe08b32a019e4f5c88d77cf019e6b33b57a91b1f09e83b15b9857d9f4c990c3bdd319a1b0656d5df73e847fb9959a892532af2bac0e0df9e3dbb35990465ab7bcb093786d426ba460e00f79fbfa5590410530166c62b9b2ac5dc50d8585f79734f551592653d282f06e1983c59c6000b357569d45ae13ec489aff14317452e8012a7ece54071898954030966e9f31d0f269f42e3eb9a3bc7ffeff888e9949414a61b70f54bd48faa357e339276097f7b17ea95ebe196504c8e122c31497e975cb88e29eba184cd438473ea610b1c6ef022f76f0da3c92208184a6fd1fc37adda34e980be8dac0d91df27f0e28ca71f192792d8fc963ec0dac434c8d9b7c1808726e1ef7f474fd54c69ab705271f31a4b603f809bbf494da0cb3b23f94abedba5d43a01151949a1df701bf90e6a30f91555eb4bfeadc1cabb8690954f1eaf18c25515a58b4924b52d87a3e44e5c0a78" timestamp="1794418028" url="https://raw.githubusercontent.com/PlayFDroid/fdroid-repo/gh-pages/fdroid/repo" version="20002">
+		<description>Classic open-source Android games and modern ports revived for Android 14/15/16+ (64-bit ARMv9).</description>
+	</repo>
+	<application id="org.ddnet.client">
+		<id>org.ddnet.client</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>DDNet</name>
+		<summary>Cooperative 2D action precision platformer with grappling hook mechanics</summary>
+		<desc>DDraceNetwork (DDNet) is an actively maintained open-source modification and continuation of Teeworlds featuring unique cooperative multiplayer gameplay.
+
+Help each other navigate through custom, intricate maps with up to 64 players using your tee's grappling hook, hammer, and weapons. Rescue teammates from freeze zones, race for worldwide records, or run your own local or LAN server right from your mobile device!
+
+Key Features:
+• Cooperative Gameplay: Team up with players worldwide to conquer thousands of diverse community-created obstacle courses.
+• Integrated Local/LAN Server: Host private offline or local network games directly from the in-game menu.
+• Worldwide Ranking: Fully connected to global official servers with centralized leaderboards and rank tracking.
+• Modern Architecture: Native 64-bit ARM (arm64-v8a) and x86/x86_64 binaries with 16 KB page-size kernel alignment for modern Android 15/16+ devices.
+• Comprehensive Controls: Responsive on-screen touch controls with customizable layout and Bluetooth/USB gamepad support.
+</desc>
+		<license>Zlib</license>
+		<categories>Platformer Game,Action Game</categories>
+		<category>Platformer Game</category>
+		<web>https://ddnet.org/</web>
+		<source>https://github.com/ddnet/ddnet</source>
+		<tracker>https://github.com/ddnet/ddnet/issues</tracker>
+		<author>DDNet Team &amp; Magnus Auvinen</author>
+		<marketversion></marketversion>
+		<marketvercode>20021</marketvercode>
+		<package>
+			<version>20.2.1</version>
+			<versioncode>20021</versioncode>
+			<apkname>ddnet.apk</apkname>
+			<hash type="sha256">39752ca4e2a4ef0f7da92af7242992daab7d966434199111f8eb57d6f991541b</hash>
+			<size>80780488</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>36</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_SPECIAL_USE,INTERNET,POST_NOTIFICATIONS,org.ddnet.client.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+			<features>android.hardware.screen.landscape</features>
+		</package>
+	</application>
+	<application id="fr.seos.enigma.revived">
+		<id>fr.seos.enigma.revived</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Enigma</name>
+		<summary>Classic marble-rolling puzzle game inspired by Oxyd and Marble Madness</summary>
+		<desc>Enigma is a classic puzzle and arcade game inspired by Oxyd and Marble Madness.
+
+The object of the game is to find and uncover matching pairs of Oxyd stones using a rolling marble. Watch out for traps, lasers, moving floors, one-way paths, and hundreds of physics-based puzzles!
+
+Features of the Revived edition:
+• Over 1,000 diverse levels (including classic Oxyd and Enigma level packs).
+• Modernized engine supporting 64-bit CPUs (ARM64) and Android 14/15/16+.
+• Touchscreen controls and Gyro/Accelerometer support (tilt your device to roll the marble).
+• Compliant with 16 KB page-size alignment for modern hardware.
+• Full soundtrack and sound effects.
+</desc>
+		<license>GPL-2.0-or-later</license>
+		<categories>Puzzle Game</categories>
+		<category>Puzzle Game</category>
+		<web>https://www.nongnu.org/enigma/</web>
+		<source>https://github.com/PlayFDroid/enigma-android</source>
+		<tracker>https://github.com/PlayFDroid/enigma-android/issues</tracker>
+		<author>Daniel Heck &amp; SeeSchloss</author>
+		<marketversion></marketversion>
+		<marketvercode>1004</marketvercode>
+		<package>
+			<version>1.21.3-revived</version>
+			<versioncode>1004</versioncode>
+			<apkname>Enigma-1.21.3-revived.apk</apkname>
+			<hash type="sha256">832e9c121fbb602b0dc03dde4e8bb4eb1e77882322dcdbf1a23558e62ffadfc2</hash>
+			<size>94331463</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>ACCESS_LOCAL_NETWORK,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,fr.seos.enigma.revived.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="cl.figonzal.gravitydefied">
+		<id>cl.figonzal.gravitydefied</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Gravity Defied Classic</name>
+		<summary>Iconic retro trial racing motorcycle game</summary>
+		<desc>Gravity Defied: Trial Racing is a legendary physics-based trial motorcycle racing game originally developed by Codebrew Software in 2004 for J2ME mobile devices.
+
+This modernized Android edition faithfully preserves the authentic 2004 fixed-point physics engine, classic wireframe vector tracks, and responsive bike dynamics while introducing comprehensive updates for contemporary smartphones.
+
+Features of this modernized edition:
+• Complete collection of all 30 original classic tracks across 100cc, 175cc, 220cc, and 325cc leagues.
+• Integrated mod catalog with in-game downloading and instant switching between over 1000 fan-made track packs.
+• Virtual on-screen 1–9 numeric control pad with multi-touch and haptic feedback.
+• Edge-to-edge layout with full support for modern display cutouts and aspect ratios.
+• Complete removal of proprietary telemetry and tracking SDKs (Firebase/Crashlytics) for complete privacy and libre compliance.
+• Modernized Android toolchain targeting Android 15/16+ (SDK 35/36).
+• Compatible with all modern 64-bit devices and 16 KB page-size kernels.
+• Free and open-source under the GPL-2.0 license.
+</desc>
+		<license>GPL-2.0-only</license>
+		<categories>Action Game,Casual Game</categories>
+		<category>Action Game</category>
+		<web>http://gdtr.net/</web>
+		<source>https://github.com/PlayFDroid/gravity-defied</source>
+		<tracker>https://github.com/PlayFDroid/gravity-defied/issues</tracker>
+		<author>Codebrew Software &amp; Evgeny Zinoviev &amp; Felipe Gonzalez</author>
+		<marketversion></marketversion>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>1.0.9</version>
+			<versioncode>10</versioncode>
+			<apkname>gravitydefied.apk</apkname>
+			<hash type="sha256">aa70e336480774817d5e63a5da3c441f259a4bebaa1981591573814ef5101d35</hash>
+			<size>578856</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,cl.figonzal.gravitydefied.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="ws.openarena.sdl">
+		<id>ws.openarena.sdl</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>OpenArena</name>
+		<summary>Fast-paced multiplayer 3D first-person shooter based on ioquake3</summary>
+		<desc>OpenArena is a standalone, open-source 3D first-person shooter powered by the ioquake3 / Quake III Arena engine.
+
+Battle with classic weapons like the Rocket Launcher, Railgun, Plasma Gun, and Lightning Gun across dozens of arenas in Deathmatch, Team Deathmatch, Tournament, and Capture the Flag modes.
+
+Features of this modernized Android port:
+• Touchscreen controls with Ray-Traced Autoshoot (automatically fires when an enemy crosses your crosshairs).
+• Authentic first-person perspective by default.
+• Tap anywhere to respawn when eliminated, plus an emergency manual fire button.
+• Compatible with modern Android 15/16 and 16 KB page-size Linux kernels (ARM64).
+• Hardware mouse capture, physical gamepad, and configurable gyroscope aiming support.
+• Integrated asset downloader fetching official game data files on first launch.
+</desc>
+		<license>GPL-2.0</license>
+		<categories>Action Game,Shooter Game</categories>
+		<category>Action Game</category>
+		<web>http://www.openarena.ws/</web>
+		<source>https://github.com/PlayFDroid/openarena-android</source>
+		<tracker>https://github.com/PlayFDroid/openarena-android/issues</tracker>
+		<author>OpenArena Team &amp; ioquake3</author>
+		<marketversion></marketversion>
+		<marketvercode>8845</marketvercode>
+		<package>
+			<version>0.8.8.45</version>
+			<versioncode>8845</versioncode>
+			<apkname>OpenArena-0.8.8.45.apk</apkname>
+			<hash type="sha256">45f69aef01b8bc04947515855b4c92516a946dde086b0174b386bb15582c5647</hash>
+			<size>36152873</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>ACCESS_LOCAL_NETWORK,INTERNET,READ_EXTERNAL_STORAGE,RECORD_AUDIO,WRITE_EXTERNAL_STORAGE,ws.openarena.sdl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="org.pingus.game">
+		<id>org.pingus.game</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Pingus</name>
+		<summary>Classic Lemmings-style puzzle game featuring penguins</summary>
+		<icon>org.pingus.game.2.png</icon>
+		<desc>Pingus is an authentic free and open-source Lemmings-style puzzle game featuring cute penguins.
+
+Command groups of marching penguins through intricate obstacle courses by assigning individual skills such as Digging, Bridging, Climbing, Floating, Bashing, and Mining to ensure safe arrival at the exit!
+
+Key Features:
+• Complete classic campaign with dozens of tutorial, holiday, and challenging levels across varied seasons and biomes.
+• Touch-optimized gameplay: tap empty areas to smoothly scroll/pan around levels, and tap penguins directly to assign actions.
+• Mobile UI Auto-Scaling: seamlessly adapts interface, text, and level elements to modern high-DPI smartphone and tablet screens (with selectable scale in the Options menu).
+• Full integrated audio: authentic sound effects and tracker module music powered by OpenAL Soft and libmodplug.
+• Modernized toolchain targeting Android 15/16+ (SDK 35) with 16 KB page-size kernel alignment and native 64-bit performance (arm64-v8a and x86_64).
+• In-game Level Editor and mod levelsets support.
+• 100% free and open-source under GPL-3.0+, with zero ads or tracking.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Puzzle Game,Strategy Game</categories>
+		<category>Puzzle Game</category>
+		<web>https://pingus.github.io/</web>
+		<source>https://github.com/PlayFDroid/pingus-android</source>
+		<tracker>https://github.com/PlayFDroid/pingus-android/issues</tracker>
+		<author>Ingo Ruhnke &amp; Pingus Community</author>
+		<marketversion></marketversion>
+		<marketvercode>2</marketvercode>
+		<package>
+			<version>0.8.0-android2</version>
+			<versioncode>2</versioncode>
+			<apkname>pingus.apk</apkname>
+			<hash type="sha256">c784f79d800446ff4436d202bae572d9b37d7029a4cf0f5155158bfa3ea8c93c</hash>
+			<size>30401824</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<nativecode>arm64-v8a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.replica.replicaisland">
+		<id>com.replica.replicaisland</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Replica Island</name>
+		<summary>Classic side-scrolling platformer starring the Android robot</summary>
+		<desc>Replica Island is a complete 2D side-scrolling platformer starring the green Android robot on a quest to locate a mysterious power source on a peculiar island.
+
+Features of this modernized edition:
+• Complete 40-level classic campaign with dialogues, secret levels, challenging boss fights, and 3 unique endings.
+• Modernized build system and toolchain targeting Android 15+ (SDK 35) with support for modern 64-bit devices.
+• Updated tilt controls using modern Android rotation vectors alongside on-screen virtual slider controls.
+• Fixed landscape display mode for modern widescreen ratios.
+• Free and open-source under the Apache 2.0 license.
+</desc>
+		<license>Apache-2.0</license>
+		<categories>Platformer Game,Action Game</categories>
+		<category>Platformer Game</category>
+		<web>https://replicaisland.net/</web>
+		<source>https://github.com/PlayFDroid/replica-island</source>
+		<tracker>https://github.com/PlayFDroid/replica-island/issues</tracker>
+		<author>Chris Pruett &amp; Genki Mine</author>
+		<marketversion></marketversion>
+		<marketvercode>20</marketvercode>
+		<package>
+			<version>1.4</version>
+			<versioncode>20</versioncode>
+			<apkname>replica-island-release.apk</apkname>
+			<hash type="sha256">beafa1a009907eb05afe992a1337b153a90a08779fca30da0248bda017d0796c</hash>
+			<size>5006262</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>VIBRATE</permissions>
+		</package>
+	</application>
+	<application id="de.tobiasbielefeld.brickgames">
+		<id>de.tobiasbielefeld.brickgames</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Simple Brick Games</name>
+		<summary>Classic LCD handheld 9999-in-1 brick games</summary>
+		<desc>Simple Brick Games recreates the nostalgic low-cost LCD brick handheld consoles (Brick Game 9999 in 1) with authentic retro charm and modern Android support.
+
+Features:
+• 14 classic mini-games including Falling Blocks, Tanks, Racing, Snake, Brick Breaker, Frogger, and Shooting.
+• Authentic monochrome LCD display with customizable brick textures and backlight colors.
+• Customizable handheld body shells and button color themes.
+• Adjustable difficulty, starting level, and speed for each individual game.
+• Separate highscore tracking for each mini-game.
+• Support for physical keyboard and gamepad button mapping alongside on-screen tactile controls.
+• Tactile haptic feedback modernized for contemporary Android devices.
+• Modernized build targeting Android 15+ (SDK 35) with universal compatibility across all modern architectures.
+• Free and open-source under the GPLv3+ license.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Puzzle Game,Casual Game,Action Game</categories>
+		<category>Puzzle Game</category>
+		<web>https://github.com/TobiasBielefeld/Simple-Brick-Games</web>
+		<source>https://github.com/PlayFDroid/simple-brick-games</source>
+		<tracker>https://github.com/PlayFDroid/simple-brick-games/issues</tracker>
+		<author>Tobias Bielefeld</author>
+		<marketversion></marketversion>
+		<marketvercode>19</marketvercode>
+		<package>
+			<version>2.2.5</version>
+			<versioncode>19</versioncode>
+			<apkname>simple-brick-games-release.apk</apkname>
+			<hash type="sha256">a28e4e49ea1f60f592811a163ee874247bdab7f73b4d77a8a74a9aa8029e71af</hash>
+			<size>5082606</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<permissions>VIBRATE,de.tobiasbielefeld.brickgames.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+	</application>
+	<application id="org.supertuxadvance">
+		<id>org.supertuxadvance</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>SuperTux Advance</name>
+		<summary>Charming retro 2D platformer powered by Brux GDK</summary>
+		<icon>org.supertuxadvance.4.png</icon>
+		<desc>SuperTux Advance is a 2D retro platformer featuring Tux the penguin, Penny, and Gwendolyn on a quest across expansive worlds packed with enemies, secret areas, powerups, boss fights, time attack challenges, and custom levels.
+
+Features of this modernized Android edition:
+• Low-latency virtual touch controls (8-way D-pad, action buttons, pause/swap) rendered natively through SDL2.
+• Dynamic display autofit automatically adapting to modern panoramic screens (19:9, 20:9, 21:9) without letterboxing.
+• Native 64-bit binaries with 16 KB page-size ELF alignment for Android 15+.
+• Rendering and background glitch fixes eliminating parallax tiling artifacts and ghosting.
+• Hardened audio subsystem preventing sound dropouts and audio channel corruption.
+• Full support for physical gamepads and keyboard input alongside on-screen touch controls.
+• Free and open-source under GPLv3 / AGPLv3.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Platformer Game,Action Game</categories>
+		<category>Platformer Game</category>
+		<web>https://github.com/KelvinShadewing/supertux-advance</web>
+		<source>https://github.com/PlayFDroid/supertux-advance-android</source>
+		<tracker>https://github.com/PlayFDroid/supertux-advance-android/issues</tracker>
+		<author>Kelvin Shadewing</author>
+		<marketversion></marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>0.2.57-android4</version>
+			<versioncode>4</versioncode>
+			<apkname>supertuxadvance.apk</apkname>
+			<hash type="sha256">709e34dff48470c27841a81d9d49de2f0bdd89421930c73704762ad46c7a0cfc</hash>
+			<size>88335816</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>35</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>a27713aaddce36a4ad7f47762912eedc</sig>
+			<permissions>MODIFY_AUDIO_SETTINGS,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="in.p1x.tanks_of_freedom">
+		<id>in.p1x.tanks_of_freedom</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Tanks of Freedom</name>
+		<summary>Indie turn-based tactical strategy in isometric 32-colour pixel art</summary>
+		<desc>Tanks of Freedom is a classic turn-based tactical strategy game with two armies fighting against each other.
+
+Challenge yourself in single-player story campaigns against the AI or enjoy intense hot-seat battles with a friend on a single device. Built using Godot Engine, every unit and tile is handcrafted in gorgeous 32-colour isometric pixel art, accompanied by an authentic chiptune soundtrack.
+
+Features of this modernized Android release:
+• Single-player story campaigns across varied seasons and terrains (Summer, Fall, Winter).
+• Local hot-seat multiplayer for two players on the same phone or tablet.
+• Built-in tactical map editor to create, play, and share custom battlefields.
+• Diverse unit roster: Infantry, Tanks, Mobile Artillery, and Helicopters with tactical AP mechanics.
+• Updated 64-bit engine support (ARM64 &amp; x86_64) for modern Android devices.
+• 100% free and open-source under the MIT license, with zero ads or tracking.
+</desc>
+		<license>MIT</license>
+		<categories>Strategy Game</categories>
+		<category>Strategy Game</category>
+		<web>https://w84death.itch.io/tanks-of-freedom</web>
+		<source>https://github.com/PlayFDroid/tanks-of-freedom</source>
+		<tracker>https://github.com/PlayFDroid/tanks-of-freedom/issues</tracker>
+		<author>P1X (Krzysztof Jankowski &amp; Team)</author>
+		<marketversion></marketversion>
+		<marketvercode>21</marketvercode>
+		<package>
+			<version>0.7.1-beta</version>
+			<versioncode>21</versioncode>
+			<apkname>TanksOfFreedom-0.7.1-beta.apk</apkname>
+			<hash type="sha256">b9df3c28c53949f54161837aaf245c69d04b06a5d514fdea5036eaf8266758d7</hash>
+			<size>30912131</size>
+			<sdkver>18</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="in.p1x.tanksoffreedom2">
+		<id>in.p1x.tanksoffreedom2</id>
+		<added>2026-11-11</added>
+		<lastupdated>2026-11-11</lastupdated>
+		<name>Tanks of Freedom II</name>
+		<summary>Classic turn-based strategy in an isometric voxel 3D world</summary>
+		<desc>Tanks of Freedom II is the 3D sequel to the beloved turn-based tactical strategy game. Built from the ground up on Godot Engine 4, it brings charming isometric voxel aesthetics, tactical depth, and modern touch optimization to Android.
+
+Take command of your forces, capture key production buildings, manage action points (AP), and outmaneuver the enemy across challenging single-player campaign missions, skirmishes, or local hot-seat multiplayer.
+
+Features of this modernized Android release:
+• Modern Godot 4 3D engine with Vulkan Mobile rendering.
+• Handcrafted voxel style with dynamic terrain, rivers, bridges, and weather effects.
+• Complete single-player story campaign and customizable skirmish modes.
+• Local hot-seat multiplayer for intense head-to-head battles on one device.
+• Tactile touchscreen controls with intuitive 3D tile selection and mobile HUD.
+• Full 64-bit ARM64 native binary compatible with modern Android releases (14/15/16/17+).
+• 100% free and open-source under the MIT license, with zero ads or tracking.
+</desc>
+		<license>MIT</license>
+		<categories>Strategy Game</categories>
+		<category>Strategy Game</category>
+		<web>https://p1x.in/tanks-of-freedom-ii</web>
+		<source>https://github.com/PlayFDroid/tanks-of-freedom-2</source>
+		<tracker>https://github.com/PlayFDroid/tanks-of-freedom-2/issues</tracker>
+		<author>P1X (Krzysztof Jankowski &amp; Team)</author>
+		<marketversion></marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0.9</version>
+			<versioncode>1</versioncode>
+			<apkname>TanksOfFreedomII.apk</apkname>
+			<hash type="sha256">7f1c853a2b572378016fd7da12abeeffa7e58c4cf6ce61a5a4238c752b63b96a</hash>
+			<size>90606727</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2026-11-11</added>
+			<sig>0604821546acd851427093ab98f1295a</sig>
+			<nativecode>arm64-v8a</nativecode>
+			<features>android.hardware.vulkan.version</features>
+		</package>
+	</application>
+</fdroid>
