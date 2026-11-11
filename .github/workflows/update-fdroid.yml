@@ -18,10 +18,22 @@ jobs:
       - name: Checkout fdroid-repo
         uses: actions/checkout@v4
 
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
       - name: Set up Python & fdroidserver
         run: |
-          sudo apt-get update
-          sudo apt-get install -y default-jdk-headless apksigner zipalign python3-pip
+          sudo sed -i 's/azure\.archive\.ubuntu\.com/archive.ubuntu.com/g' /etc/apt/sources.list /etc/apt/sources.list.d/* /etc/apt/apt-mirrors.txt 2>/dev/null || true
+          sudo apt-get update -o Acquire::Retries=3 -o Acquire::http::Timeout="20" || true
+          sudo apt-get install -y --no-install-recommends zipalign apksigner 2>/dev/null || true
+          # Ensure Android SDK build tools (zipalign, apksigner) are in PATH
+          BT_DIR=$(ls -d /usr/local/lib/android/sdk/build-tools/* 2>/dev/null | sort -V | tail -1)
+          if [ -n "$BT_DIR" ]; then
+            echo "$BT_DIR" >> $GITHUB_PATH
+          fi
           pip3 install --break-system-packages --upgrade "androguard>=4.1.1" fdroidserver
 
       - name: Restore Keystore & Configure fdroidserver
