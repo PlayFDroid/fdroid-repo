@@ -8,3 +8,4 @@ PlayFDroid/tanks-of-freedom-2
 PlayFDroid/simple-brick-games
 PlayFDroid/gravity-defied
 PlayFDroid/ddnet-android
+PlayFDroid/pingus-android
